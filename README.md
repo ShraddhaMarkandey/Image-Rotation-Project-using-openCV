@@ -1,1 +1,2 @@
-# Image-Rotation-Project-using-openCV
+There is a relation between matrices and digital images. A digital image in a computer is presented by pixel matrix. In this project there is a c++ program to rotate and warp the input file(image) by the use of wrafAffine function which is inbuilt in the openCV library. wrafAffine takes 4 parameters. First is source image file, second is destination image file, third parameter is mat object that is output after rotating with some point taking into reference and last is taking the size. A transformation that can be expressed in the form of a matrix multiplication (linear transformation) followed by a vector addition (translation) is affine transformation.
+Software Required-Visual Studio
